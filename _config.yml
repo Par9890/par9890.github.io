@@ -11,7 +11,7 @@ email: chibalepatrick@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   This is a web Profile for Patrick Chibale an Entrepreneur and a computer science Freak!
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://yourdomain.com" # the base hostname & protocol for your site
+url: "https://par9890.github.io/" # the base hostname & protocol for your site
 twitter_username: ChibalePmc
 github_username:  Par9890
 
