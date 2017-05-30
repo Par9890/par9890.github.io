@@ -9,7 +9,7 @@
 title: Patrick M Chibale
 email: chibalepatrick@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  This is a Web Profile for Patrick Chibale an Entrepreneur and a computer science Freak!
+  This is a web Profile for Patrick Chibale an Entrepreneur and a computer science Freak!
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://yourdomain.com" # the base hostname & protocol for your site
 twitter_username: ChibalePmc
