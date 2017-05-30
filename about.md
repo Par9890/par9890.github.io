@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Patrick
+title: About
 permalink: /about/
 ---
 
